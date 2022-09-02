@@ -1,0 +1,10 @@
+.DS_Store
+packages
+.project
+.dart_tool/
+pubspec.lock
+build
+
+.idea
+
+*.lyx#

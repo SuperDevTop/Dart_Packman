@@ -1,0 +1,5 @@
+{
+  "pacmanSpeed": 250, 
+  "ghostSpeed": 750,
+  "acceleration": 0
+}
